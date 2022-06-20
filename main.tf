@@ -17,7 +17,7 @@ module "vpc" {
     Terraform = "true"
     Environment = "prod"
     Team = "DevOps"
-    Analyst = "Bruno Martins"
+    Analyst = "Bruno Bezerra Martins"
   }
 }
 
